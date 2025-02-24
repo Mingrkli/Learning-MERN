@@ -7,14 +7,22 @@ MONGO_URI=your_mongo_uri
 PORT=5000
 ```
 
-### Run this app locally
+### Run in dev mode
+Frontend
+```shell
+npm i
+npm run dev
+```
+
+Backend
+```shell
+npm i
+npm run dev
+```
+
+### Build and Start the app locally
 
 ```shell
 npm run build
-```
-
-### Start the app
-
-```shell
 npm run start
 ```
