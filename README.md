@@ -8,14 +8,15 @@ PORT=5000
 ```
 
 ### Run in dev mode
-Frontend
+Backend
 ```shell
 npm i
 npm run dev
 ```
 
-Backend
+Frontend
 ```shell
+cd frontend
 npm i
 npm run dev
 ```
